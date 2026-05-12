@@ -32,7 +32,7 @@ Türk sinema ve dizi oyuncularının yüzlerini tanıyan bir sistemdir.
 ![Sonuc1](ekrangoruntuleri/sonuc1.png)
 
 ### Yüz Tanıma
-![Sonuc2](ekrangoruntulerisonuc10.png)
+![Sonuc2](ekrangoruntulerisonuc6.png)
 
 ## 📁 Klasör Yapısı
 FaceProject/
