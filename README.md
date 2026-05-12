@@ -29,10 +29,10 @@ Türk sinema ve dizi oyuncularının yüzlerini tanıyan bir sistemdir.
 ## 📸 Ekran Görüntüleri
 
 ### Yüz Algılama
-![Sonuc1](ekrangoruntuleri/Ekran görüntüsü 2026-05-07 142109.png)
+![Sonuc1](ekrangoruntuleri/sonuc1.png)
 
 ### Yüz Tanıma
-![Sonuc2](ekrangoruntuleri/Ekran görüntüsü 2026-05-11 191746.png)
+![Sonuc2](ekrangoruntulerisonuc10.png)
 
 ## 📁 Klasör Yapısı
 FaceProject/
